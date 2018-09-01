@@ -5,3 +5,8 @@ authors = ["cout970 <thecout970@gmail.com>"]
 
 [dependencies]
 rayon = "1.0.2"
+cgmath = "0.16.1"
+image = "0.19.0"
+time = "0.1.40"
+rand = "0.5.5"
+gltf = "0.11"
