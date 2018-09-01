@@ -24,8 +24,8 @@ mod raytrace;
 mod renderer;
 
 fn main() {
-    let width  =  200; // 3840;
-    let height = 200; // 2160;
+    let width  =  3840;
+    let height = 2160;
     let aspect = (width as f32) / (height as f32);
 
     println!("Opening image: environ.jpg");
